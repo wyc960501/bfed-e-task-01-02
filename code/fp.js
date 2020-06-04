@@ -294,5 +294,5 @@ console.log(array.splice(0,3)); */
 
 
 /* 
-    
+    12、
 */
